@@ -1,4 +1,4 @@
-
+//https://github.com/ashfak0046/assignment-js 
 
 //1st: kilometer to meter
 function kilometerToMeter(n){
@@ -61,8 +61,8 @@ function hotelCost(days){
         return 'Error';
     }
 }
-var total = hotelCost(28);
-console.log('Hotel Cost:',total);
+// var total = hotelCost(28);
+// console.log('Hotel Cost:',total);
 
 
 //4th: find the largest string
@@ -77,6 +77,6 @@ function megaFriend(str){
     }
     return longest;
 }
-var namelist = ['Ashfak','Mahbuba','Mahia','Naif','Labib'];
-var result = megaFriend(namelist);
-console.log('Largest string:',result);
+// var namelist = ['Ashfak','Mahbuba','Mahia','Naif','Labib'];
+// var result = megaFriend(namelist);
+// console.log('Largest string:',result);
